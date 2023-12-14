@@ -266,6 +266,16 @@ body {
     padding-left: 0;
     list-style: none;
 }
+
+.features-icon-wrap {
+    height: 112px;
+    background-color: #f4f4fd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 8px;
+    border-radius: 4px;
+}
 /* -----------DOING -------------*/
 
 .doing {
