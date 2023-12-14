@@ -269,7 +269,7 @@ body {
 
 .features-icon-wrap {
     height: 112px;
-    background-color: #f4f4fd;
+    background-color: var(--background-color);
     display: flex;
     align-items: center;
     justify-content: center;
