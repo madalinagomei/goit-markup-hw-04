@@ -506,7 +506,7 @@ body {
         }
     
         .customers-icon {
-            fill: #f4f4fd;
+            fill: currentColor;
         }
     
         .customers-link:hover,
