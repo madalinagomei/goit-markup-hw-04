@@ -691,8 +691,9 @@ body {
 }
 
 .footer-social {
-    fill: #f4f4f4fd;
+    fill: var(--footer-fill);
 }
+
 .footer-logo-wrap {
     margin-right: 120px;
 }
