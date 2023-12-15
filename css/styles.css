@@ -9,6 +9,7 @@
     --gray: #8e8f99;
     --focus: #31d0aa;
     --border: #e7e9fc;
+    --footer-fill: #f4f4f4fd;
 }
 
 
@@ -362,6 +363,9 @@ body {
     margin-bottom: 8px;
 }
 
+.team-social-icon{
+    fill: var(--background-color);
+}
 .team-item-text  {
     color: var(--text-color);
     text-align: center;
@@ -687,7 +691,7 @@ body {
 }
 
 .footer-social-icon {
-    fill: #f4f4f4fd;
+    fill: var(--footer-fill);
 }
 .footer-logo-wrap {
     margin-right: 120px;
