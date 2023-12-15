@@ -690,7 +690,7 @@ body {
     background-color: var(--focus);
 }
 
-.footer-social-icon {
+.footer-social {
     fill: var(--footer-fill);
 }
 .footer-logo-wrap {
